@@ -615,7 +615,7 @@ def count_parameters(model):
 # print(num/1e6)
 if __name__ == "__main__":
     import os 
-    os.environ['CUDA_VISIBLE_DEVICES']='1' 
+    os.environ['CUDA_VISIBLE_DEVICES']='0' 
     # x=torch.zeros((1,3,513,513)).type(torch.FloatTensor).cuda() 
     
     import time 

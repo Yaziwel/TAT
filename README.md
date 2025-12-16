@@ -1,8 +1,8 @@
 # TAT: Task-Adaptive Transformer for All-in-One Medical Image Restoration
 
-This paper has been early accepted by **MICCAI 2025 (top 9%)**
+PyTorch implementation for 《TAT: Task-Adaptive Transformer for All-in-One Medical Image Restoration》
 
-The full code is scheduled for release in **December 2025**.
+🚀🚀🚀Check our paper collection of recent **Awsome-Medical-Image-Restoration** [![Star](https://img.shields.io/github/stars/Yaziwel/Awesome-Medical-Image-Restoration.svg?style=social&label=Star)](https://github.com/Yaziwel/Awesome-Medical-Image-Restoration)
 
 ## Network Architecture
 
@@ -38,3 +38,6 @@ If you find **TAT** useful in your research, please consider citing:
 }
 ```
 
+## Acknowledgments
+
+The codebase is based on the awesome [AMIR](https://github.com/Yaziwel/All-In-One-Medical-Image-Restoration-via-Task-Adaptive-Routing) and [Restore-RWKV](https://github.com/Yaziwel/Restore-RWKV) repositories.
