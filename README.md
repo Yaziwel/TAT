@@ -2,7 +2,7 @@
 
 PyTorch implementation for 《TAT: Task-Adaptive Transformer for All-in-One Medical Image Restoration》
 
-🚀🚀🚀Check our paper collection of recent **Awsome-Medical-Image-Restoration** [![Star](https://img.shields.io/github/stars/Yaziwel/Awesome-Medical-Image-Restoration.svg?style=social&label=Star)](https://github.com/Yaziwel/Awesome-Medical-Image-Restoration)
+🚀🚀🚀Check our paper collection of recent [**Awesome-Medical-Image-Restoration**](https://github.com/Yaziwel/Awesome-Medical-Image-Restoration) 
 
 ## Network Architecture
 
